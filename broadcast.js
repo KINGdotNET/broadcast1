@@ -199,7 +199,7 @@ function upvote(author, permalink, event, weightPercentage, limit) {
       // Voter bot posting and author name.  20180216 em @ king.net
       // process.env.STEEMKEY,
       // process.env.STEEMAUTHOR,
-      "5J3kff1XSXUK33QjgNqRyJ5Dc5BiBtuNHKHfydvDqKDFXb14GGd",
+      "5Jqwrmovwmrpvjamrhdfhbewjunbavfafafaf2hfasdfuasdfalfjasdf",
       "broadcast",
       author,
       permalink,
